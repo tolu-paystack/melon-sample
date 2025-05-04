@@ -6,7 +6,7 @@ A React Native mobile checkout app with Paystack payment integration. This app d
 
 You can try this app directly in your browser using Expo Snack:
 
-[Try Melon Paystack App on Expo Snack]([https://snack.expo.dev/](https://snack.expo.dev/@tolu-paystack/github.com-tolu-paystack-melon-sample)
+[Try Melon Paystack App on Expo Snack](https://snack.expo.dev/@tolu-paystack/github.com-tolu-paystack-melon-sample)
 
 ## Features
 
